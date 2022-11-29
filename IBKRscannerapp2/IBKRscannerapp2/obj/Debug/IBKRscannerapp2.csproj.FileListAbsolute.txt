@@ -1,0 +1,10 @@
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\obj\Debug\IBKRscannerapp2.csprojAssemblyReference.cache
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\obj\Debug\IBKRscannerapp2.csproj.CoreCompileInputs.cache
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\bin\Debug\IBKRscannerapp2.exe.config
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\bin\Debug\IBKRscannerapp2.exe
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\bin\Debug\IBKRscannerapp2.pdb
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\bin\Debug\CSharpAPI.dll
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\bin\Debug\CSharpAPI.pdb
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\obj\Debug\IBKRscannerapp2.csproj.CopyComplete
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\obj\Debug\IBKRscannerapp2.exe
+C:\Users\bruce\source\repos\IBKRscannerapp2\IBKRscannerapp2\obj\Debug\IBKRscannerapp2.pdb
